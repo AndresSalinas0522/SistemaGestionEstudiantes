@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar archivos de intercambio de editores
+*.swp
+
+# Ignorar carpetas y archivos de configuración del IDE IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar carpetas de salida y compilación
+out/
+build/
